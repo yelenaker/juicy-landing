@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Secular+One&display=swap');
+
+/* 
+  для логотипа 
+  font-family: "Secular One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  для текста
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  для заголовков
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+*/
+
+body {
+  font-family: "PT Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+}
+
+.container {
+  max-width: 1920px;
+  margin: 0 auto;
+}
